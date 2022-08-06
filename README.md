@@ -7,7 +7,7 @@ There is also an score board where you can compare your stats with your friends 
 
 enjoy the game
 
-#Tech part
+# Tech part
 
 I have used oop basics to make this game there are two classes in this program User and Menu
 
